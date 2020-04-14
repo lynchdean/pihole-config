@@ -14,6 +14,7 @@
 | gcs.sc-cdn.net                | Snapchat                                          |
 | rover.ebay.ie                 | Ebay                                              |
 | sessions.bugsnag.com          | Bug reporting (Unsure what service needed this)   |
+| api.iterable.com              | Sneakers n' Stuff                                 |
 
 
 ## Useful links:
